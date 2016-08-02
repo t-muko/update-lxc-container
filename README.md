@@ -2,7 +2,7 @@
 A script to perform release upgrade on Ubuntu LXC container
 
 The script mounts the LXC container root filesystem and required proc, sysfs and devpts from the host
-system to the container so that LXC container can be upgraded offline using host systems networking
+system to the container so that LXC container can be upgraded offline using host system's networking
 functions. As the LXC container is not running during the upgrade, all services should upgrade
 without issues.
 
