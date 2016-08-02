@@ -1,8 +1,7 @@
 #!/bin/bash
 
 #title:       upgrade-lxc-container.sh
-#description: Mounts lxc container filesystem on the host instance and runs do-release-upgrade in chroot enviro
-nment
+#description: Mounts lxc container filesystem on the host instance and runs do-release-upgrade in chroot environment
 #author:      Teemuko
 #date:        1.8.2016
 #version:     1.0    
